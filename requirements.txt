@@ -21,7 +21,6 @@ lazy-object-proxy==1.4.3
 lxml==4.6.2
 mccabe==0.6.1
 mysql-connector-python==8.0.26
-mysqlclient==2.0.3
 pipenv==2020.11.15
 pippip==0.0.10
 platformdirs==2.2.0
