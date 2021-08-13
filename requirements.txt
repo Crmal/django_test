@@ -22,7 +22,6 @@ lxml==4.6.2
 mccabe==0.6.1
 mysql-connector-python==8.0.26
 pipenv==2020.11.15
-pippip==0.0.10
 platformdirs==2.2.0
 protobuf==3.17.3
 psycopg2==2.9.1
