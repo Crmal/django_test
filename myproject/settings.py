@@ -28,7 +28,7 @@ MESSAGE_LEVEL = messages_constants.DEBUG
 # SECURITY WARNING: keep the secret key used in production secret!
 from . import my_settings
 SECRET_KEY = os.environ['SECRET_KEY']
-# DATABASES = my_settings.DATABASES
+DATABASES = my_settings.DATABASES
 # SECURITY WARNING: don't run with debug turned on in production!
 
 ALLOWED_HOSTS = ['*']
